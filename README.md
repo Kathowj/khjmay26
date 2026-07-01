@@ -1,6 +1,6 @@
 Sample coding exercise and program. 
 _____________________________________
-khjsample01 is a number guessing game. 
+khjmay26 is a number guessing game. 
 
 The number picking program selects a number between 1-100 and then asks the user to guess that number. 
 The user responds with a guess and enters a number between 1-100. 
